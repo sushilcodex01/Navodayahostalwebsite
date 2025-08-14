@@ -6,7 +6,8 @@ A comprehensive static website for **Navodaya Girls Hostel** in Jaipur, providin
 
 This website serves as the primary digital presence for Navodaya Girls Hostel, located at Tonk Road, Jaipur. It's designed to help girls find secure, comfortable accommodation with modern amenities in the heart of Rajasthan's capital city.
 
-**Live Website**: [Your Website URL]
+**Live Website**: https://navodayagirlshostel.page.gd
+## ✨ Replit link = https://replit.com/@locafad466/NavodayaHostel
 
 ## ✨ Features
 
